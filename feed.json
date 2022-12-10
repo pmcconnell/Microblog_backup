@@ -1,0 +1,194 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Patrick McConnell",
+	"icon": "https://micro.blog/pmcconnell/avatar.jpg",
+	"home_page_url": "https://pmcconnell.micro.blog/",
+	"feed_url": "https://pmcconnell.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/10/making-some-soup.html",
+				
+				"content_html": "<p>Making some soup and had a thought about also baking a loaf of bread. Google &lsquo;simple bread recipe&rsquo; get a bunch of links to videos over 2 hours long. Decidedly not simple. Soup and whiskey it is.</p>\n",
+				"content_text": "Making some soup and had a thought about also baking a loaf of bread. Google 'simple bread recipe' get a bunch of links to videos over 2 hours long. Decidedly not simple. Soup and whiskey it is.\n",
+				"date_published": "2022-12-10T18:23:11-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/10/making-some-soup.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/07/the-person-who.html",
+				
+				"content_html": "<p>The person who moved the delete button in iPadOS mail is a bad person</p>\n",
+				"content_text": "The person who moved the delete button in iPadOS mail is a bad person\n",
+				"date_published": "2022-12-07T15:42:05-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/07/the-person-who.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/04/roguelike-tutorial-fat.html",
+				"title": "Roguelike Tutorial | Fat Old Yeti",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Playing around with this <a href=\"https://www.fatoldyeti.com/posts/roguelike-tutorial-0/\">Roguelike Tutorial</a>.</p>\n<p><strong><em>tl;dr: it’s very good but I have some mental problems</em></strong></p>\n<p>My OCD immediately kicked in when he added a framework to handle the game systems. I’m not opposed to using a framework but I was hoping to go over how to implement it yourself before taking that shortcut. Not a knock on the tutorial, which is very good, but more a statement about how my mind works and how I can never finish these sorts of projects.</p>\n<p>I’ve built these types of games myself from scratch before and I know how to create all the parts. Sometimes all it takes to scratch that “time to make a game” itch is do a few tutorials and fool around.</p>\n<p>Main reasons I never finish any of these projects are I overcomplicate it from the start and I always want to keep dependencies out of it. These two tend to go hand in hand.</p>\n<p>Sometimes the journey is the point and just reading, learning and messing with the code is the important thing anyway. At least I’ll tell myself that, again.</p>\n<p> </p>\n",
+				"date_published": "2022-12-04T13:32:02-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/04/roguelike-tutorial-fat.html",
+				"tags": ["Geekery"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/04/burning-off-some.html",
+				"title": "Burning Off Some High Octane Egg Nog",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img title=\"IMG_1801.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/c986817080.png\" alt=\"IMG 1801\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>Directly on the Massachusetts border with New York there are an extensive set of trails. Most of them are old roads now used by ATVs and snowmobiles. There are foot trails mixed in and all of it can be hiked. The trails can get wet and muddy due to these vehicles but they allow lots of wandering and creating loops in the woods.</p>\n<p><img title=\"IMG_1809.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/a58702070b.png\" alt=\"IMG 1809\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>In some spots the trails are two lane superhighways through the woods. The location above had two lanes for about a half mile. I assume this is to avoid collisions but in many spots it’s so wet people have created more than two lanes.</p>\n<p><img title=\"IMG_1803.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/4d1be782ad.png\" alt=\"IMG 1803\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>The roads and trails create a network of paths but there are quite a lot of signs to help navigate, though they all differ.</p>\n<p><img title=\"IMG_1808.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/2b5beb0bf0.png\" alt=\"IMG 1808\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>One highlight of these woods is Twin Ponds. Two ponds hidden in the woods. The second twin and larger pond is just beyond those trees in the background on that slight rise.<img title=\"IMG_1811.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/026ffe6309.png\" alt=\"IMG 1811\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>The trails are intersected at a few points by the <a href=\"https://taconichikingclub.org/taconic-crest-trail\">Taconic Crest Trail</a>. This is more of a footpath and tends to be less wet than the ATV trails. </p>\n<p><img title=\"IMG_1804.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/bda7b58cea.png\" alt=\"IMG 1804\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>Today I started off Brickyard Road just off Route 20 but I've accessed this trail network from the parking areas on Route 20 and the Pittsfield side as well. The trails extend for miles and there are many access points. Makes for interesting wandering</p>\n<p>A dreary December day. 31º with a few flurries but still no real snow.</p>\n<p><img title=\"Screenshot 2022-12-04 at 12.55.34 PM.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/d9abc138ad.png\" alt=\"Screenshot 2022 12 04 at 12 55 34 PM\" width=\"274\" height=\"241\" border=\"0\" /><img title=\"Screenshot 2022-12-04 at 12.55.50 PM.png\" src=\"https://pmcconnell.micro.blog/uploads/2022/9368627973.png\" alt=\"Screenshot 2022 12 04 at 12 55 50 PM\" width=\"247\" height=\"503\" border=\"0\" /></p>\n",
+				"date_published": "2022-12-04T13:07:47-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/04/burning-off-some.html",
+				"tags": ["Woods"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/02/more-of-this.html",
+				
+				"content_html": "<p>More of this, please: <a href=\"https://www.reuters.com/technology/activision-blizzard-game-testers-vote-form-union-2022-12-02/\">www.reuters.com/technolog&hellip;</a></p>\n",
+				"content_text": "More of this, please: [www.reuters.com/technolog...](https://www.reuters.com/technology/activision-blizzard-game-testers-vote-form-union-2022-12-02/)\n",
+				"date_published": "2022-12-02T16:59:16-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/02/more-of-this.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/12/02/the-cycle-goes.html",
+				
+				"content_html": "<p>The cycle goes like this: play a bunch of games, get bored with those games, decide to create a game, get 20-80% thru creating a game,  unable to just keep game simple, decide it’s easier to just play some games. Repeat.</p>\n<p>Currently in &ldquo;decide to create&rdquo; phase.</p>\n",
+				"content_text": "The cycle goes like this: play a bunch of games, get bored with those games, decide to create a game, get 20-80% thru creating a game,  unable to just keep game simple, decide it’s easier to just play some games. Repeat. \n\nCurrently in \"decide to create\" phase. \n",
+				"date_published": "2022-12-02T08:41:09-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/12/02/the-cycle-goes.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/30/since-i-pointed.html",
+				
+				"content_html": "<p>Since I pointed out this was broken, I feel inclined to mention searching for Mastodon users in the M.b app is working now</p>\n",
+				"content_text": "Since I pointed out this was broken, I feel inclined to mention searching for Mastodon users in the M.b app is working now\n",
+				"date_published": "2022-11-30T17:48:48-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/30/since-i-pointed.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/30/several-crashes-of.html",
+				
+				"content_html": "<p>Several crashes of the Window Server on Mac OS Ventura when connected to an external display. Seems related to use of full screen windows. Seeing reports of this being fixed in the betas so let&rsquo;s get that wrapped up so I don&rsquo;t need to change my workflow</p>\n",
+				"content_text": "Several crashes of the Window Server on Mac OS Ventura when connected to an external display. Seems related to use of full screen windows. Seeing reports of this being fixed in the betas so let's get that wrapped up so I don't need to change my workflow\n",
+				"date_published": "2022-11-30T11:32:35-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/30/several-crashes-of.html",
+				"tags": ["Geekery"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/28/when-the-conditions.html",
+				
+				"content_html": "<p>When the conditions aren&rsquo;t great for skiing you take a hike to view the mountain from afar. Mount Snow from Somerset Reservoir</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When the conditions aren't great for skiing you take a hike to view the mountain from afar. Mount Snow from Somerset Reservoir\n\n<img src=\"https://pmcconnell.micro.blog/uploads/2022/62187e459d.png\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-11-28T08:24:22-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/28/when-the-conditions.html",
+				"tags": ["Woods"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/22/may-have-sumbled.html",
+				
+				"content_html": "<p>May have sumbled into something as troubling for developers as dealing with time - capitalization of surnames.  Wish me luck</p>\n",
+				"content_text": "May have sumbled into something as troubling for developers as dealing with time - capitalization of surnames.  Wish me luck\n",
+				"date_published": "2022-11-22T09:23:16-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/22/may-have-sumbled.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/22/twitter-will-finally.html",
+				
+				"content_html": "<p>Twitter will finally be dead when the last person posts the last wordle screenshot</p>\n",
+				"content_text": "Twitter will finally be dead when the last person posts the last wordle screenshot\n",
+				"date_published": "2022-11-22T08:04:29-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/22/twitter-will-finally.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/20/if-you-are.html",
+				
+				"content_html": "<p>If you are trying to follow Mastdon people through Micro.blog searching for them via discover does not work on the iOS app. It will always return zero results. The same search via the Micro.blog web page will work.</p>\n",
+				"content_text": "If you are trying to follow Mastdon people through Micro.blog searching for them via discover does not work on the iOS app. It will always return zero results. The same search via the Micro.blog web page will work. \n",
+				"date_published": "2022-11-20T11:47:53-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/20/if-you-are.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/18/ive-often-said.html",
+				
+				"content_html": "<p>I&rsquo;ve often said the best code is the code you delete. I think overly clever code is not ideal. So what are you presenting for the madmans code show &amp; tell?</p>\n",
+				"content_text": "I've often said the best code is the code you delete. I think overly clever code is not ideal. So what are you presenting for the madmans code show & tell?\n",
+				"date_published": "2022-11-18T14:39:10-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/18/ive-often-said.html",
+				"tags": ["Geekery"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/18/microblog-as-front.html",
+				"title": "Micro.blog as front end to Mastodon",
+				"content_html": "<p>Here is what I&rsquo;ve figured out regarding Micro.blog and Mastodon. This was confusing to me so maybe this helps others.</p>\n<p>There are two ways to connect your Micro.blog account to Mastodon:</p>\n<p><strong>Option 1</strong> - If you don&rsquo;t already have a Mastodon account:</p>\n<p>On Micro.blog, go to your account settings and find the option for a new ActivtyPub account. Follow the steps to hook it up and your micro.blog timeline will be sent to that newly created Mastodon account.</p>\n<p><strong>Option 2</strong> - You already have a Mastodon account:</p>\n<p>You want to cross post in this case. Go to your Micro.blog account settings and find the button to <em>edit feeds &amp; cross posting</em>. Connect Mastodon (or twitter, etc) to your existing account. Once this is done your micro.blog posts will go to the account(s) you connected.</p>\n<p>I did both but what I really wanted was <em>Option 2</em>. I already have an account with a few followers and telling people to follow you across several accounts is not ideal.</p>\n<p>Micro.blog, once configured will allow you to follow your Mastodon friends right in your timeline. At least I&rsquo;ve been able to add a few so far.</p>\n<p>The only hurdle I encountered with Option 2 was Mastodon timing out several times while trying to approve access from micro.blog. It did eventually work and hopefully this all gets better once the great exodus is over.</p>\n<p>Happy to be shown what I&rsquo;m still doing wrong but this seems to work.</p>\n",
+				"content_text": "Here is what I've figured out regarding Micro.blog and Mastodon. This was confusing to me so maybe this helps others. \n\nThere are two ways to connect your Micro.blog account to Mastodon:\n\n**Option 1** - If you don't already have a Mastodon account: \n\nOn Micro.blog, go to your account settings and find the option for a new ActivtyPub account. Follow the steps to hook it up and your micro.blog timeline will be sent to that newly created Mastodon account.\n\n**Option 2** - You already have a Mastodon account:\n\nYou want to cross post in this case. Go to your Micro.blog account settings and find the button to _edit feeds & cross posting_. Connect Mastodon (or twitter, etc) to your existing account. Once this is done your micro.blog posts will go to the account(s) you connected. \n\nI did both but what I really wanted was _Option 2_. I already have an account with a few followers and telling people to follow you across several accounts is not ideal.\n\nMicro.blog, once configured will allow you to follow your Mastodon friends right in your timeline. At least I've been able to add a few so far.\n\nThe only hurdle I encountered with Option 2 was Mastodon timing out several times while trying to approve access from micro.blog. It did eventually work and hopefully this all gets better once the great exodus is over.\n\nHappy to be shown what I'm still doing wrong but this seems to work.\n",
+				"date_published": "2022-11-18T14:35:37-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/18/microblog-as-front.html",
+				"tags": ["Geekery"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/18/i-may-have.html",
+				
+				"content_html": "<p>I <em>may</em> have cracked the code to get micro.blog working as the front end to my mastodon feed.</p>\n",
+				"content_text": "I _may_ have cracked the code to get micro.blog working as the front end to my mastodon feed. \n",
+				"date_published": "2022-11-18T13:46:10-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/18/i-may-have.html",
+				"tags": ["Geekery"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/18/feels-like-you.html",
+				
+				"content_html": "<p>Feels like you can judge how bad things are going over on twitter by how much mastodon slows down with the weight of new users. None of which is ideal.</p>\n",
+				"content_text": "Feels like you can judge how bad things are going over on twitter by how much mastodon slows down with the weight of new users. None of which is ideal. \n",
+				"date_published": "2022-11-18T06:53:52-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/18/feels-like-you.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/16/not-certain-how.html",
+				
+				"content_html": "<p>Not certain how I feel about this</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not certain how I feel about this\n\n<img src=\"https://pmcconnell.micro.blog/uploads/2022/50dc505697.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-16T07:13:42-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/16/not-certain-how.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/15/i-was-enjoying.html",
+				
+				"content_html": "<p>I was enjoying fall a lot more when it wasn&rsquo;t 23º</p>\n",
+				"content_text": "I was enjoying fall a lot more when it wasn't 23º\n",
+				"date_published": "2022-11-15T09:48:43-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/15/i-was-enjoying.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/13/160650.html",
+				"title": "November beginning to feel like November ",
+				"content_html": "<p>Headed down to the Taconic Ridge south of Great Barrington for some quality time in the woods.</p>\n<!-- raw HTML omitted -->\n<p>Rain yesterday made for some mud but the streams looked nice.</p>\n<!-- raw HTML omitted -->\n<p>Some tricky crossings but no falls.</p>\n<!-- raw HTML omitted -->\n<p>I&rsquo;ve been aware of this free primative camp area for a while but never bothered to walk through it. will need to come back for an overnight.</p>\n<!-- raw HTML omitted -->\n<p>The leaves are all down now and some spots were quite slick</p>\n<!-- raw HTML omitted -->\n<p>4.5 miles of easy walking. About 900' of elevation gain.</p>\n<p><a href=\"https://maps.apple.com/?ll=42.086486,-73.462122&amp;q=Mount%20Washington%20Park%20HQ&amp;t=m\">Trailhead parking at Mount Washington Park Headquarters</a></p>\n",
+				"content_text": "Headed down to the Taconic Ridge south of Great Barrington for some quality time in the woods. \n\n<img src=\"https://pmcconnell-test.micro.blog/uploads/2022/047de29076.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nRain yesterday made for some mud but the streams looked nice.\n\n<img src=\"https://pmcconnell-test.micro.blog/uploads/2022/41490f62f8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nSome tricky crossings but no falls.\n\n<img src=\"https://pmcconnell-test.micro.blog/uploads/2022/79a8ea3653.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nI've been aware of this free primative camp area for a while but never bothered to walk through it. will need to come back for an overnight. \n\n<img src=\"https://pmcconnell-test.micro.blog/uploads/2022/155e9e361e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nThe leaves are all down now and some spots were quite slick\n\n<img src=\"https://pmcconnell-test.micro.blog/uploads/2022/8075a08f22.jpg\" width=\"600\" height=\"478\" alt=\"\" />\n\n4.5 miles of easy walking. About 900' of elevation gain. \n\n[Trailhead parking at Mount Washington Park Headquarters](https://maps.apple.com/?ll=42.086486,-73.462122&q=Mount%20Washington%20Park%20HQ&t=m)\n",
+				"date_published": "2022-11-13T16:08:21-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/13/160650.html",
+				"tags": ["Woods"]
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/12/changing-social-apps.html",
+				
+				"content_html": "<p>Changing social apps feels like you showed up at the wrong address for the party. Where is everyone?</p>\n",
+				"content_text": "Changing social apps feels like you showed up at the wrong address for the party. Where is everyone?\n",
+				"date_published": "2022-11-12T18:23:09-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/12/changing-social-apps.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/12/microblog-will-backup.html",
+				
+				"content_html": "<p>Microblog will backup to GitHub. Now my useless posts will be saved</p>\n",
+				"content_text": "Microblog will backup to GitHub. Now my useless posts will be saved\n",
+				"date_published": "2022-11-12T18:04:28-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/12/microblog-will-backup.html"
+			},
+			{
+				"id": "http://pmcconnell.micro.blog/2022/11/12/time-to-see.html",
+				
+				"content_html": "<p>Time to see what this 5 year old account can do. I like the features of micro blog. Even does mastodon so i can hang the cool kids.</p>\n",
+				"content_text": "Time to see what this 5 year old account can do. I like the features of micro blog. Even does mastodon so i can hang the cool kids.  \n",
+				"date_published": "2022-11-12T17:42:29-05:00",
+				"url": "https://pmcconnell.micro.blog/2022/11/12/time-to-see.html"
+			}
+	]
+}
