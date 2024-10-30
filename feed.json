@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://pmcconnell.micro.blog/2024/10/30/swift-subscripts.html",
+				"title": "Swift Subscripts",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Recently, I’ve added <a href=\"https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/\">Swift Subscripts</a> to my vocabulary. In many cases they feel like a reasonable amount of syntactic sugar, making my code more concise and I <em>hope</em> more legible. I can see where they could be overused so I’m going slow.</p>\n<p>If you are not aware Swift allows you to declare your own <strong><em>subscripts</em></strong> to access collection members. You can always use <strong><em>filter, first</em></strong>, etc on your collection but with <em><strong>subscript</strong> </em>your code may read better. </p>\n<p>Let’s say you have a Observable DataService with a property of Locations containing an array of places to display on a map.</p>\n<pre>@Observable class DataService {<br />    var locations: [Location] = []</pre>\n<p>Without subscripts you might add a method to get a specific location by searching for it’s ID:</p>\n<pre>func location(forID id: String) -&gt; Location? {}</pre>\n<p>Then elsewhere in your code you can call that method and work with the location.</p>\n<pre>let loc = service.location(forID: id)</pre>\n<p><strong><em>Subscripts</em></strong> provide the same function but you may prefer the simple format when using them:</p>\n<pre>let loc = service.locations[id]</pre>\n<p>It’s virtually the same thing as calling your method but I think it reads well and makes the code easier to reason with.</p>\n<p>Assuming you want to call the subscript on the location array, the <strong><em>subscript</em></strong> for that usage might look something like this:</p>\n<pre>extension Array where Element == Location {<br />    subscript(id: String) -&gt; Location? {<br />        self.first(where: {$0.id == id})<br />    }<br />}</pre>\n<p>Notice we placed the subscript in an extension on an array. If you define the subscript right in your DataService you would need to call it as <strong><em>service[id]</em></strong> and that may not be as clear as <strong><em>service.locations[id]</em></strong>.</p>\n<p>I try to go slowly if and when I adopt new Swift features. The curmedgeon in me thinks that so much of it just adds unnecessary complexity and often I find myself looking at recent Swift code “improvements\" and thinking “thats just looks confusing” Simple, legible code is the easiest to reason with. It’s not a cleverness competition. I think judicious use of <strong><em>subscripts</em></strong> can be a “just right” amount of improved code syntax.</p>\n<p>#iOSDev #Swift</p>\n<p> </p>\n",
+				"date_published": "2024-10-30T11:31:52-04:00",
+				"url": "https://pmcconnell.micro.blog/2024/10/30/swift-subscripts.html",
+				"tags": ["Geekery","Swift","Apple"]
+			},
+			{
 				"id": "http://pmcconnell.micro.blog/2024/10/24/swiftui-map-marker.html",
 				"title": "SwiftUI Map Marker Clustering",
 				"content_html": "<!-- raw HTML omitted -->\n",
